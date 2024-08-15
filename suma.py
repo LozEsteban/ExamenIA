@@ -1,2 +1,2 @@
-Funciones: def sumar(x, y):
+def sumar(x, y):
     return x + y
